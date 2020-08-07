@@ -29,5 +29,6 @@ end
   
     def save(name)
       @@all << self
+      puts dog.name
     end
 end
