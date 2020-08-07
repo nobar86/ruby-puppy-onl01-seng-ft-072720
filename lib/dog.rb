@@ -23,4 +23,5 @@ end
       @@all.print.each do |name|
         puts dog.name
     end
+  end
 end
