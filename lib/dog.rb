@@ -19,7 +19,7 @@ end
       @@all.clear
     end
     
-    private
+ 
     
     def self.print_all
       @@all.print.each do |dog|
