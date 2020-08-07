@@ -27,7 +27,7 @@ end
     end
   end
   
-    def save(name)
+    def self.save(name)
       @@all << self
       puts dog.name
     end
