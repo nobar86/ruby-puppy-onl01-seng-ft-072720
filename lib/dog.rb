@@ -4,6 +4,7 @@ class Dog
   
   def initialize(name)
     @name = name
+    self.name
   end
   
   
