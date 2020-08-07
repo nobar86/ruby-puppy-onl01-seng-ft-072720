@@ -1,5 +1,5 @@
 class Dog 
- attr_accessor
+ attr_accessor :name
  
   @@all = []
   
@@ -8,6 +8,7 @@ class Dog
     @name = name
     @@all << self
   end
-  
+   
+   
   
 end
